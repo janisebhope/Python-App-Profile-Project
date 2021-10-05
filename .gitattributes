@@ -1,1 +1,1 @@
-*.python linguist-detectable=false
+*.R linguist-language=Python
